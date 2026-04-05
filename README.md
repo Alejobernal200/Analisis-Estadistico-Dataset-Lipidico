@@ -16,7 +16,7 @@ El dashboard permite explorar visualmente **458 registros LC-MS/MS** distribuido
 
 ---
 
-## ✨ Características principales / Key Features
+## Características principales / Key Features
 
 | Característica | Descripción |
 |---|---|
