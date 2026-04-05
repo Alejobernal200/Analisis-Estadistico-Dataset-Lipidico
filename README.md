@@ -6,7 +6,7 @@
 
 ---
 
-## 📋 Descripción / Description
+## Descripción / Description
 
 Este artefacto es un **dashboard de análisis estadístico interactivo** desarrollado sobre la base de datos [LIPID MAPS® Partial Spectra DB](https://www.lipidmaps.org/databases/partial_db/overview), una colección especializada de espectros de masas de lípidos poco representados en la investigación lipidómica convencional.
 
@@ -210,7 +210,7 @@ Zhixu Ni · Laura Goracci · Paul Kennedy · Miguel Gijón · María Fedorova ·
 
 ---
 
-## 👤 Autor / Author
+## Autor / Author
 
 **Alejandro Bernal**
 Dashboard desarrollado el 05/04/2026
@@ -218,7 +218,7 @@ Asistencia analítica: [Claude AI](https://claude.ai) · Anthropic
 
 ---
 
-## 📚 Referencias / References
+## Referencias / References
 
 - LIPID MAPS® Partial Spectra Database: https://www.lipidmaps.org/databases/partial_db/overview
 - Plotly.js: https://plotly.com/javascript/
@@ -228,7 +228,7 @@ Asistencia analítica: [Claude AI](https://claude.ai) · Anthropic
 
 ---
 
-## 📄 Licencia / License
+## Licencia / License
 
 Este proyecto es de uso libre para fines académicos y de investigación. Los datos pertenecen a LIPID MAPS® y están sujetos a sus términos de uso ([lipidmaps.org](https://www.lipidmaps.org)).
 
