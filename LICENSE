@@ -1,24 +1,39 @@
-MIT License
+Creative Commons Attribution 4.0 International (CC BY 4.0)
 
 Copyright (c) 2026 Alejandro Bernal
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This work is licensed under the Creative Commons Attribution 4.0 International License.
+To view a copy of this license, visit:
+https://creativecommons.org/licenses/by/4.0/
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+-------------------------------------------------------------------------------
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+YOU ARE FREE TO:
+
+  Share  — copy and redistribute the material in any medium or format
+            for any purpose, even commercially.
+
+  Adapt  — remix, transform, and build upon the material
+            for any purpose, even commercially.
+
+The licensor cannot revoke these freedoms as long as you follow the license terms.
+
+-------------------------------------------------------------------------------
+
+UNDER THE FOLLOWING TERMS:
+
+  Attribution — You must give appropriate credit, provide a link to the license,
+  and indicate if changes were made. You may do so in any reasonable manner,
+  but not in any way that suggests the licensor endorses you or your use.
+
+  Suggested attribution format:
+  "LIPID MAPS® Partial Spectra DB — Statistical Dashboard"
+  by Alejandro Bernal (2026), licensed under CC BY 4.0.
+  https://creativecommons.org/licenses/by/4.0/
+  Analytical assistance: Claude AI · Anthropic.
+
+  No additional restrictions — You may not apply legal terms or technological
+  measures that legally restrict others from doing anything the license permits.
 
 -------------------------------------------------------------------------------
 
@@ -30,29 +45,43 @@ THIRD-PARTY NOTICES
    https://github.com/plotly/plotly.js/blob/master/LICENSE
 
 2. Space Grotesk & JetBrains Mono (Google Fonts)
-   Space Grotesk — Copyright (c) 2020 Florian Karsten
-   Licensed under the SIL Open Font License, Version 1.1.
-   https://scripts.sil.org/OFL
-
-   JetBrains Mono — Copyright (c) 2020 JetBrains s.r.o.
    Licensed under the SIL Open Font License, Version 1.1.
    https://scripts.sil.org/OFL
 
 3. LIPID MAPS® Partial Spectra Database
-   Copyright (c) LIPID MAPS® Consortium / EpiLipidNET
-   Data sourced from: https://www.lipidmaps.org/databases/partial_db/overview
-   Use of the underlying spectral data is subject to LIPID MAPS® terms of use.
-   This dashboard does not redistribute the raw database — only derived
-   aggregate statistics computed from the dataset.
+   Source: https://www.lipidmaps.org/databases/partial_db/overview
+   Terms of use: https://www.lipidmaps.org/terms-of-use
+   How to link & cite: https://www.lipidmaps.org/how-to-link
+
+   All LIPID MAPS® databases are licensed under a
+   Creative Commons Attribution 4.0 International License.
+   https://creativecommons.org/licenses/by/4.0/
+
+   When using or referencing LIPID MAPS® resources, please cite:
+
+   [1] Conroy MJ, Andrews RM, Andrews S, Cockayne L, Dennis EA, Fahy E,
+       Gaud C, Griffiths WJ, Jukes G, Kolchin M, Mendivelso K,
+       Lopez-Clavijo AF, Ready C, Subramaniam S, O'Donnell VB.
+       "LIPID MAPS: update to databases and tools for the lipidomics
+       community." Nucleic Acids Research (2023).
+       DOI: 10.1093/nar/gkad896 — PMID: 37855672
+       URL: https://www.lipidmaps.org/
+
+   [2] Fahy E, Subramaniam S, Murphy R, Nishijima M, Raetz C, Shimizu T,
+       Spener F, van Meer G, Wakelam M, and Dennis E.
+       "Update of the LIPID MAPS® comprehensive classification system
+       for lipids." Journal of Lipid Research (2009).
+       DOI: 10.1194/jlr.R800095-JLR200 — PMID: 19098281
 
    Contributors: Zhixu Ni, Laura Goracci, Paul Kennedy,
                  Miguel Gijón, María Fedorova, LIPID MAPS® team.
+   This dashboard uses only derived aggregate statistics computed
+   from the dataset — it does not redistribute the raw spectral data.
 
 -------------------------------------------------------------------------------
 
 DISCLAIMER
 
-This dashboard is provided for academic and research purposes only.
-The authors make no warranties regarding the accuracy or completeness
-of the derived statistics. Users should verify results against the
-original LIPID MAPS® source data before drawing scientific conclusions.
+No warranties are given. This dashboard is provided for academic and
+research purposes. Users should verify results against the original
+LIPID MAPS® source data before drawing scientific conclusions.
